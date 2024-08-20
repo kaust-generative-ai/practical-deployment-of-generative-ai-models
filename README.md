@@ -8,11 +8,12 @@ Covers various strategies for deploying Generative AI models starting from local
 
 #### Module 1.1: Local deployments
 
-1. [LLaMA C++](https://github.com/ggerganov/llama.cpp): Enable LLM inference with minimal setup and state-of-the-art performance on a wide variety of hardware - locally and in the cloud.
+1. [LLaMA C++](https://github.com/ggerganov/llama.cpp): Enable LLM inference with minimal setup and state-of-the-art performance on a wide variety of hardware - locally and in the cloud. See also [LLama C++ Python](https://github.com/abetlen/llama-cpp-python) for Python bindings.
 2. [LlamaFile](https://github.com/Mozilla-Ocho/llamafile): Make open-source LLMs more accessible to both developers and end users. Combines [LLaMA C++](https://github.com/ggerganov/llama.cpp) with [Cosmopolitan Libc](https://github.com/jart/cosmopolitan) into one framework that collapses all the complexity of LLMs down to a single-file executable (called a "llamafile") that runs locally on most computers, with no installation.
 3. [Ollama](https://ollama.com) ([GitHub](https://github.com/ollama/ollama)): Get up and running with Llama 3, Mistral, Gemma 2, and other large language models. Uses [LLaMA C++](https://github.com/ggerganov/llama.cpp) as the backend.
 4. [Open WebUI](https://openwebui.com) ([GitHub](https://github.com/open-webui/open-webui)): Extensible, self-hosted interface for AI that adapts to your workflow, all while operating entirely offline.
-
+5. [Jupyter AI](https://github.com/jupyterlab/jupyter-ai): A generative AI extension for JupyterLab.
+   
 Additional relevant material:
 
 * [DeepLearning AI: Open Source Models with HuggingFace](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/)
@@ -53,7 +54,8 @@ Cover techniques for optimizing Generative AI models for deployment, such as mod
 * [DeepLearning AI: Quantization Fundamentals](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/)
 * [DeepLearning AI: Quantization in Depth](https://www.deeplearning.ai/short-courses/quantization-in-depth/)
 * [GGUF My Repo](https://huggingface.co/spaces/ggml-org/gguf-my-repo)
-  
+* https://www.markhneedham.com/blog/2023/10/18/ollama-hugging-face-gguf-models/
+
 ### Module 3: Monitoring and Maintenance
 
 Cover the importance of monitoring the performance of deployed models and updating them as needed. Discuss potential issues that might arise during deployment and how to troubleshoot them.
