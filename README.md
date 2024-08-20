@@ -52,7 +52,8 @@ Cover techniques for optimizing Generative AI models for deployment, such as mod
 
 * [DeepLearning AI: Quantization Fundamentals](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/)
 * [DeepLearning AI: Quantization in Depth](https://www.deeplearning.ai/short-courses/quantization-in-depth/)
-
+* [GGUF My Repo](https://huggingface.co/spaces/ggml-org/gguf-my-repo)
+  
 ### Module 3: Monitoring and Maintenance
 
 Cover the importance of monitoring the performance of deployed models and updating them as needed. Discuss potential issues that might arise during deployment and how to troubleshoot them.
