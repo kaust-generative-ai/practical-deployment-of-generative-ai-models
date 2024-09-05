@@ -20,7 +20,8 @@ Additional relevant material:
 * [DeepLearning AI: Building Generative AI Apps](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
 * [Blog Post: Emerging UI/UX patterns for AI applications](https://uxdesign.cc/emerging-interaction-patterns-in-generative-ai-experiences-8c351bb3392a)
 * [Latent Space Podcast: Tiny Model Revolution](https://www.latent.space/p/cogrev-tinystories)
-
+* [Awesome LLMs on Device](https://github.com/NexaAI/Awesome-LLMs-on-device)
+  
 #### Module 1.2: On-premise, server-based deployments
 
 * [OpenLLM](https://github.com/bentoml/OpenLLM)
