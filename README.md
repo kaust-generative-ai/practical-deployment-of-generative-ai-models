@@ -21,7 +21,8 @@ Additional relevant material:
 * [Blog Post: Emerging UI/UX patterns for AI applications](https://uxdesign.cc/emerging-interaction-patterns-in-generative-ai-experiences-8c351bb3392a)
 * [Latent Space Podcast: Tiny Model Revolution](https://www.latent.space/p/cogrev-tinystories)
 * [Awesome LLMs on Device](https://github.com/NexaAI/Awesome-LLMs-on-device)
-  
+* [LitServe](https://lightning.ai/lightning-ai/studios/deploy-a-private-api-for-any-hugging-face-model)
+    
 #### Module 1.2: On-premise, server-based deployments
 
 * [OpenLLM](https://github.com/bentoml/OpenLLM)
